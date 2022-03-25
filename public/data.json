@@ -12,7 +12,7 @@
     {
       "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
       "category": "Hot Coffees",
-      "name": "Caffè Americano",
+      "name": "Espresso",
       "price": 30,
       "stock": 40,
       "ratings": 4,
@@ -30,83 +30,93 @@
       "img":"https://globalassets.starbucks.com/assets/b635f407bbcd49e7b8dd9119ce33f76e.jpg?impolicy=1by1_wide_topcrop_630"
     },
     {
-      "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
-      "category": "Hot Coffees",
-      "name": "Caffe Latte",
-      "price": 25,
+      "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ecd",
+      "category": "Cold Coffees",
+      "name": "Vanilla Sweet Cream Cold Brew",
+      "price": 45,
       "stock": 40,
-      "ratings": 4,
+      "ratings": 5,
       "ratingsCount": 3925,
-      "img":"https://globalassets.starbucks.com/assets/b635f407bbcd49e7b8dd9119ce33f76e.jpg?impolicy=1by1_wide_topcrop_630"
+      "img":"https://globalassets.starbucks.com/assets/07951b9a7d7d47a2892dfa7a707fd318.jpg?impolicy=1by1_wide_topcrop_630"
     },
     {
       "id": "124e13b9-2d54-4b2f-a74d-a77b362d6eab",
-      "category": "Hot Coffees",
-      "name": "Caffe Latte",
+      "category": "Cold Coffees",
+      "name": "Nitro Cold Brew",
       "price": 25,
       "stock": 40,
       "ratings": 4,
       "ratingsCount": 3925,
-      "img":"https://globalassets.starbucks.com/assets/b635f407bbcd49e7b8dd9119ce33f76e.jpg?impolicy=1by1_wide_topcrop_630"
+      "img":"https://globalassets.starbucks.com/assets/8c5dcfa053504f85b3e7af2fa451346d.jpg?impolicy=1by1_wide_topcrop_630"
+    },
+    {
+      "id": "124e13b9-2d54-4b2f-a74d-a77o362d6eab",
+      "category": "Cold Coffees",
+      "name": "Iced Caffè Mocha",
+      "price": 25,
+      "stock": 40,
+      "ratings": 4,
+      "ratingsCount": 3925,
+      "img":"https://globalassets.starbucks.com/assets/0360378c6e774cc3a38d870fc75d5462.jpg?impolicy=1by1_wide_topcrop_630"
+    },
+    {
+      "id": "124e13b9-2d54-4b2f-a74d-a77b362c6eab",
+      "category": "Frappuccino® Blended Beverages",
+      "name": "Strawberry Crème Frappuccino® Blended Beverage",
+      "price": 25,
+      "stock": 40,
+      "ratings": 4,
+      "ratingsCount": 3925,
+      "img":"https://globalassets.starbucks.com/assets/abd48a12ed76482790f2079db420f2c4.jpg?impolicy=1by1_wide_topcrop_630"
+    },
+    {
+      "id": "124e13b9-2d54-4b2f-b74d-a77b362d6eab",
+      "category": "Frappuccino® Blended Beverages",
+      "name": "Matcha Crème Frappuccino® Blended Beverage",
+      "price": 25,
+      "stock": 40,
+      "ratings": 4,
+      "ratingsCount": 3925,
+      "img":"https://globalassets.starbucks.com/assets/17f8efcbdbc8476e9992503d4ee19f95.jpg?impolicy=1by1_wide_topcrop_630"
+    },
+    {
+      "id": "124e13b9-2d54-4b2f-a74d-a7nb362d6eab",
+      "category": "Frappuccino® Blended Beverages",
+      "name": "Mocha Cookie Crumble Frappuccino® Blended Beverage",
+      "price": 25,
+      "stock": 40,
+      "ratings": 4,
+      "ratingsCount": 3925,
+      "img":"https://globalassets.starbucks.com/assets/1fd99578d31f4072a52892398d8f1fa8.jpg?impolicy=1by1_wide_topcrop_630"
+    },
+    {
+      "id": "124f13b9-2d54-4b2f-a74d-a77b362d6eab",
+      "category": "Cold Coffees",
+      "name": "Iced Pistachio Latte",
+      "price": 25,
+      "stock": 40,
+      "ratings": 4,
+      "ratingsCount": 3925,
+      "img":"https://globalassets.starbucks.com/assets/a3eacb2a29f1439f917d7dae230b2771.jpg?impolicy=1by1_wide_topcrop_630"
+    },
+    {
+      "id": "124e13b9-2d54-4b2f-a74d-a77n362d6eab",
+      "category": "Cold Coffees",
+      "name": "Iced Flat White",
+      "price": 25,
+      "stock": 40,
+      "ratings": 4,
+      "ratingsCount": 3925,
+      "img":"https://globalassets.starbucks.com/assets/a1d7c679325f4c32ab5441f051aa0767.jpg?impolicy=1by1_wide_topcrop_630"
     },
     {
       "id": "124e13b9-2d54-4b2f-a74d-a77b362d6eab",
-      "category": "Hot Coffees",
-      "name": "Caffe Latte",
+      "category": "Cold Coffees",
+      "name": "Iced Cinnamon Dolce Latte",
       "price": 25,
       "stock": 40,
       "ratings": 4,
       "ratingsCount": 3925,
-      "img":"https://globalassets.starbucks.com/assets/b635f407bbcd49e7b8dd9119ce33f76e.jpg?impolicy=1by1_wide_topcrop_630"
-    },
-    {
-      "id": "124e13b9-2d54-4b2f-a74d-a77b362d6eab",
-      "category": "Hot Coffees",
-      "name": "Caffe Latte",
-      "price": 25,
-      "stock": 40,
-      "ratings": 4,
-      "ratingsCount": 3925,
-      "img":"https://globalassets.starbucks.com/assets/b635f407bbcd49e7b8dd9119ce33f76e.jpg?impolicy=1by1_wide_topcrop_630"
-    },
-    {
-      "id": "124e13b9-2d54-4b2f-a74d-a77b362d6eab",
-      "category": "Hot Coffees",
-      "name": "Caffe Latte",
-      "price": 25,
-      "stock": 40,
-      "ratings": 4,
-      "ratingsCount": 3925,
-      "img":"https://globalassets.starbucks.com/assets/b635f407bbcd49e7b8dd9119ce33f76e.jpg?impolicy=1by1_wide_topcrop_630"
-    },
-    {
-      "id": "124e13b9-2d54-4b2f-a74d-a77b362d6eab",
-      "category": "Hot Coffees",
-      "name": "Caffe Latte",
-      "price": 25,
-      "stock": 40,
-      "ratings": 4,
-      "ratingsCount": 3925,
-      "img":"https://globalassets.starbucks.com/assets/b635f407bbcd49e7b8dd9119ce33f76e.jpg?impolicy=1by1_wide_topcrop_630"
-    },
-    {
-      "id": "124e13b9-2d54-4b2f-a74d-a77b362d6eab",
-      "category": "Hot Coffees",
-      "name": "Caffe Latte",
-      "price": 25,
-      "stock": 40,
-      "ratings": 4,
-      "ratingsCount": 3925,
-      "img":"https://globalassets.starbucks.com/assets/b635f407bbcd49e7b8dd9119ce33f76e.jpg?impolicy=1by1_wide_topcrop_630"
-    },
-    {
-      "id": "124e13b9-2d54-4b2f-a74d-a77b362d6eab",
-      "category": "Hot Coffees",
-      "name": "Caffe Latte",
-      "price": 25,
-      "stock": 40,
-      "ratings": 4,
-      "ratingsCount": 3925,
-      "img":"https://globalassets.starbucks.com/assets/b635f407bbcd49e7b8dd9119ce33f76e.jpg?impolicy=1by1_wide_topcrop_630"
+      "img":"https://globalassets.starbucks.com/assets/b5ee0554cdd64959a86530922cea7991.jpg?impolicy=1by1_wide_topcrop_630"
     }
 ]
