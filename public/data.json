@@ -1,0 +1,112 @@
+[
+    {
+      "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+      "category": "Hot Coffees",
+      "name": "Caffè Americano",
+      "price": 20,
+      "stock": 20,
+      "ratings": 5,
+      "ratingsCount": 3725,
+      "img":"https://globalassets.starbucks.com/assets/f12bc8af498d45ed92c5d6f1dac64062.jpg?impolicy=1by1_wide_topcrop_630"
+    },
+    {
+      "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+      "category": "Hot Coffees",
+      "name": "Caffè Americano",
+      "price": 30,
+      "stock": 40,
+      "ratings": 4,
+      "ratingsCount": 3725,
+      "img":"https://globalassets.starbucks.com/assets/5c515339667943ce84dc56effdf5fc1b.jpg?impolicy=1by1_wide_topcrop_630"
+    },
+    {
+      "id": "124e13b9-2d54-4b2f-a74d-a77b362d6eab",
+      "category": "Hot Coffees",
+      "name": "Caffe Latte",
+      "price": 25,
+      "stock": 40,
+      "ratings": 4,
+      "ratingsCount": 3925,
+      "img":"https://globalassets.starbucks.com/assets/b635f407bbcd49e7b8dd9119ce33f76e.jpg?impolicy=1by1_wide_topcrop_630"
+    },
+    {
+      "id": "124e13b9-2d54-4b2f-a74d-a77b362d6eab",
+      "category": "Hot Coffees",
+      "name": "Caffe Latte",
+      "price": 25,
+      "stock": 40,
+      "ratings": 4,
+      "ratingsCount": 3925,
+      "img":"https://globalassets.starbucks.com/assets/b635f407bbcd49e7b8dd9119ce33f76e.jpg?impolicy=1by1_wide_topcrop_630"
+    },
+    {
+      "id": "124e13b9-2d54-4b2f-a74d-a77b362d6eab",
+      "category": "Hot Coffees",
+      "name": "Caffe Latte",
+      "price": 25,
+      "stock": 40,
+      "ratings": 4,
+      "ratingsCount": 3925,
+      "img":"https://globalassets.starbucks.com/assets/b635f407bbcd49e7b8dd9119ce33f76e.jpg?impolicy=1by1_wide_topcrop_630"
+    },
+    {
+      "id": "124e13b9-2d54-4b2f-a74d-a77b362d6eab",
+      "category": "Hot Coffees",
+      "name": "Caffe Latte",
+      "price": 25,
+      "stock": 40,
+      "ratings": 4,
+      "ratingsCount": 3925,
+      "img":"https://globalassets.starbucks.com/assets/b635f407bbcd49e7b8dd9119ce33f76e.jpg?impolicy=1by1_wide_topcrop_630"
+    },
+    {
+      "id": "124e13b9-2d54-4b2f-a74d-a77b362d6eab",
+      "category": "Hot Coffees",
+      "name": "Caffe Latte",
+      "price": 25,
+      "stock": 40,
+      "ratings": 4,
+      "ratingsCount": 3925,
+      "img":"https://globalassets.starbucks.com/assets/b635f407bbcd49e7b8dd9119ce33f76e.jpg?impolicy=1by1_wide_topcrop_630"
+    },
+    {
+      "id": "124e13b9-2d54-4b2f-a74d-a77b362d6eab",
+      "category": "Hot Coffees",
+      "name": "Caffe Latte",
+      "price": 25,
+      "stock": 40,
+      "ratings": 4,
+      "ratingsCount": 3925,
+      "img":"https://globalassets.starbucks.com/assets/b635f407bbcd49e7b8dd9119ce33f76e.jpg?impolicy=1by1_wide_topcrop_630"
+    },
+    {
+      "id": "124e13b9-2d54-4b2f-a74d-a77b362d6eab",
+      "category": "Hot Coffees",
+      "name": "Caffe Latte",
+      "price": 25,
+      "stock": 40,
+      "ratings": 4,
+      "ratingsCount": 3925,
+      "img":"https://globalassets.starbucks.com/assets/b635f407bbcd49e7b8dd9119ce33f76e.jpg?impolicy=1by1_wide_topcrop_630"
+    },
+    {
+      "id": "124e13b9-2d54-4b2f-a74d-a77b362d6eab",
+      "category": "Hot Coffees",
+      "name": "Caffe Latte",
+      "price": 25,
+      "stock": 40,
+      "ratings": 4,
+      "ratingsCount": 3925,
+      "img":"https://globalassets.starbucks.com/assets/b635f407bbcd49e7b8dd9119ce33f76e.jpg?impolicy=1by1_wide_topcrop_630"
+    },
+    {
+      "id": "124e13b9-2d54-4b2f-a74d-a77b362d6eab",
+      "category": "Hot Coffees",
+      "name": "Caffe Latte",
+      "price": 25,
+      "stock": 40,
+      "ratings": 4,
+      "ratingsCount": 3925,
+      "img":"https://globalassets.starbucks.com/assets/b635f407bbcd49e7b8dd9119ce33f76e.jpg?impolicy=1by1_wide_topcrop_630"
+    }
+]
