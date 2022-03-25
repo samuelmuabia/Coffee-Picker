@@ -1,0 +1,14 @@
+.item-container{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin: 5px 0px;
+}
+.image-icon{
+    width: 36px;
+    height: 36px;
+    border-radius: 50px;
+}
+.item-name{
+    margin: 5px 10px;
+}

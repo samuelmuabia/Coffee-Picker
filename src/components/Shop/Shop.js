@@ -10,24 +10,32 @@ const Shop = () => {
         .then(data=>setProduct(data))
     },[])
     const [lists,setList]=useState([]);
-    console.log(lists)
    
     const addToList = (coffee)=>{
-        if (lists.length<4){
-            const newList = [...lists,coffee];
-            setList(newList);
-            console.log(lists)
+        if (lists.length<4 ){
+            if(lists.indexOf(coffee)===-1){
+                const newList = [...lists,coffee];
+                setList(newList);
+            }
+            else{
+                alert("Already Added");
+            }
+ 
         }
        else{
            alert("List is already full")
        }
     }
     const pickOne = ()=>{
-        const number = Math.floor(Math.random() * 4);
-        console.log(number);
-        console.log(lists);
-        console.log(lists[number].name)
-        alert(lists[number].name)
+        if (lists.length!=0){
+            const number = Math.floor(Math.random() * lists.length);
+            alert(lists[number].name);
+        }
+    }
+    const removeItem = (item)=>{
+    
+        let filteredArray = lists.filter(list => list !== item)
+        setList(filteredArray);
     }
     const resetList=()=>{
         setList([]);
@@ -39,9 +47,9 @@ const Shop = () => {
                 products.map(product=><Coffee coffee={product} key={product.id} btnClick={addToList}></Coffee>)
             }
             </div>
-            <div className="cart-container">
+            <div className="list-container">
                 {
-                    <List lists={lists} reset={resetList} pick ={pickOne}></List>
+                    <List lists={lists} reset={resetList} pick ={pickOne} remove={removeItem}></List>
                 }
             </div>
         </div>
