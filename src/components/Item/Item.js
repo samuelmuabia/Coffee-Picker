@@ -2,13 +2,13 @@ import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faRemove } from '@fortawesome/free-solid-svg-icons';
 import './Item.css'
-const Item = (props) => {
-    const {img,name}=props.items;
+const Item = ({items,remove}) => {
+    const {img,name}=items;
     return (
         <div className='item-container'>
             <img className='image-icon' src={img} alt="" />
             <p className='item-name'>{name}</p>
-            <button onClick={()=>props.remove(props.items)} className='remove-btn'><FontAwesomeIcon icon={faRemove}></FontAwesomeIcon></button>
+            <button onClick={()=>remove(items)} className='remove-btn'><FontAwesomeIcon icon={faRemove}></FontAwesomeIcon></button>
         </div>
     );
 };

@@ -1,3 +1,6 @@
+# Coffee Picker
+This a Website for the people who are confused to pick which drink they should pick in the morning.
+Here is the live site [link](https://morning-coffee-picker.netlify.app)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
