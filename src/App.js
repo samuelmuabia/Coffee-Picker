@@ -3,10 +3,10 @@ import './App.css';
 import Shop from './components/Shop/Shop';
 function App() {
   return (
-    <div className="">
+    <div className="main">
     <header>
-      <h1>Good Morning</h1>
-      <h3>Pick coffee to start the day</h3>
+      <h1>Good <span className='morning-text'>Morning</span></h1>
+      <h3>Start the day with a <span className='coffee-text'>COFFEE</span></h3>
     </header>
     <Shop></Shop>
     </div>

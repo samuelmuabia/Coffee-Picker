@@ -17,6 +17,7 @@
     border: none;
     font-size: medium;
     cursor: pointer;
+    border: none;
 }
 .remove-btn:hover{
     color: white;

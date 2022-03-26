@@ -1,4 +1,25 @@
 .list-container{
     position: sticky;
-    top: 0;
+    top: 30%;
+}
+.btn-list {
+    text-align: center;
+}
+.btn-select{
+    padding: 10px 20px;
+    margin: 10px;
+    color: white;
+    font-weight: 500;
+    cursor: pointer;
+    background-color: #235247;
+    border: none;
+}
+.btn-reset{
+    padding: 10px 20px;
+    margin: 10px;
+    color: black;
+    font-size: 14px;
+    cursor: pointer;
+    background-color: rgb(255, 51, 0);
+    border: none;
 }

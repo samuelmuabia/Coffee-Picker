@@ -8,9 +8,10 @@ const List = (props) => {
             {
              props.lists.map(item=><Item items={item} key={item.id} remove={props.remove}></Item>)
             }
-            <button onClick={props.pick}>Random One</button>
-            <button onClick={props.reset}>Reset</button>
-
+          <div className='btn-list'>
+          <button className='btn-select' onClick={props.pick}>Random One</button>
+            <button className='btn-reset' onClick={props.reset}>Reset</button>
+          </div>
         </div>
     );
 };

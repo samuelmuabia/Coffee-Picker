@@ -47,7 +47,7 @@ const Shop = () => {
                 products.map(product=><Coffee coffee={product} key={product.id} btnClick={addToList}></Coffee>)
             }
             </div>
-            <div className="list-container">
+            <div className="lists-container">
                 {
                     <List lists={lists} reset={resetList} pick ={pickOne} remove={removeItem}></List>
                 }
