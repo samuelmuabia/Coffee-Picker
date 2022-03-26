@@ -1,26 +1,36 @@
 .coffee-card{
-    border: 1px solid rgb(156, 153, 153);
-    border-radius: 20px;
+    border: 0.5px solid rgb(156, 153, 153);
+    border-radius: 10px;
     position: relative;
     height: 540px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
 }
 .coffee-card img{
     width: 100%;
     height: 300px;
+    border-radius: 5px;
 }
 .add-btn{
     width: 100%;
-    border-radius: 5px;
+    background-color: #1f3933;
+    color: white;
+    font-weight: 500;
+    font-size: 14px;
+    cursor: pointer;
     position: absolute;
     bottom: 0;
     display: flex;
     align-items: center;
     justify-content: center;
+    border: none;
   }
 .add-btn p{
-    margin-right: 5px;
+    margin-right: 10px;
 }
 .coffee-info{
     padding: 10px;
-
+}
+.coffee-info p{
+    font-size: 20px;
+    font-weight: 600;
 }

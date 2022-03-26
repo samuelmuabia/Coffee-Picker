@@ -8,7 +8,7 @@ const Item = (props) => {
         <div className='item-container'>
             <img className='image-icon' src={img} alt="" />
             <p className='item-name'>{name}</p>
-            <button onClick={()=>props.remove(props.items)}><FontAwesomeIcon icon={faRemove}></FontAwesomeIcon></button>
+            <button onClick={()=>props.remove(props.items)} className='remove-btn'><FontAwesomeIcon icon={faRemove}></FontAwesomeIcon></button>
         </div>
     );
 };

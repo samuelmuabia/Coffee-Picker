@@ -27,7 +27,7 @@ const Shop = () => {
        }
     }
     const pickOne = ()=>{
-        if (lists.length!=0){
+        if (lists.length!==0){
             const number = Math.floor(Math.random() * lists.length);
             alert(lists[number].name);
         }

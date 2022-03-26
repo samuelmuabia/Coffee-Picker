@@ -11,7 +11,7 @@ const Coffee = (props) => {
             <div className='coffee-info'>
                 <img src={img} alt="" />
                 <h2>{name}</h2>
-                <p>{price}</p>
+                <p>Price : ${price}</p>
             </div>
             <button className='add-btn' onClick={()=>props.btnClick(props.coffee)}>
                 <p >Add to list</p>
