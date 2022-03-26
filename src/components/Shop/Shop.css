@@ -8,10 +8,44 @@
     gap: 20px;
     padding: 30px;
 }
-.list-container{
+.lists-container{
     padding: 20px;
     margin-right: 5px;
     border-radius: 5px;
-    height: 420px;
+    height: 550px;
     background-color: rgba(0, 128, 0, 0.247);
+    position: sticky;
+    top: 0%;
+}
+.lists-container p{
+    font-size: 0.8rem;
+}
+@media only screen and (min-width:768px) and (max-width: 1023px) {
+    .coffee-container{
+        grid-template-columns: repeat(2,1fr);
+    }
+    .lists-container{
+        top:0%;
+        height: 600px;
+    }
+    .lists-container p{
+        font-size: 0.7rem;
+    }
+}
+@media only screen and (max-width: 767px) {
+    .coffee-container{
+        grid-template-columns: repeat(1,1fr);
+    }
+    .lists-container{
+        top:0%;
+        height: 600px;
+    }
+    .lists-container p{
+        font-size: 0.7rem;
+    }
+}
+@media only screen and (max-width: 370px) {
+    .coffee-container{
+        padding-left: 5px;
+    }
 }

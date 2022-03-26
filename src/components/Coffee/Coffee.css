@@ -1,9 +1,8 @@
 .coffee-card{
-    border: 0.5px solid rgb(156, 153, 153);
     border-radius: 10px;
     background-color: rgba(160, 160, 160, 0.082);
     position: relative;
-    height: 540px;
+    height: 480px;
     box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
 }
 .coffee-card img{
@@ -32,6 +31,24 @@
     padding: 10px;
 }
 .coffee-info p{
-    font-size: 20px;
+    font-size: 16px;
     font-weight: 600;
 }
+.coffee-info h2{
+    font-weight: 800;
+    font-size: 1rem;
+}
+@media only screen and (max-width: 600px) {
+    .coffee-info h2{
+        font-size: 0.9rem;
+    }
+    .coffee-card {
+        height: 400px;
+    }
+    .coffee-card img{
+        height: 180px;
+    }
+    .coffee-info p{
+        font-size: 0.8rem;
+    }
+    }
